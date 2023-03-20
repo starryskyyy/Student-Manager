@@ -1,5 +1,5 @@
 10000:Lisa:Vygovskaia:sxfd:4:111-111-1111:12.04.1997
 10001:Ash:LyDo:Cs:4:111-111-1111:11.05.1990
 10002:wrdg:rsdeg:fghn:4:111-111-1111:12.04.1997
-10003:Danesh:Graham:Philosophy:3:803-342-1233:18.12.1997
-10004:Maria:Doe:Computer Science:3.9:111-111-1111:12.04.1997
+10003:Danesh:Graham:Philosophy:3.4:803-342-1233:18.12.1997
+10004:Maria:Doe:Computer Science:4:111-111-1111:12.04.1997
