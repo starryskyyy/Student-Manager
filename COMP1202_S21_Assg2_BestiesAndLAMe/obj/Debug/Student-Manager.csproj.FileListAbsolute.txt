@@ -6,3 +6,11 @@ D:\source\repos\COMP1202_S21_Assg2_BestiesAndLAMe\COMP1202_S21_Assg2_BestiesAndL
 D:\source\repos\COMP1202_S21_Assg2_BestiesAndLAMe\COMP1202_S21_Assg2_BestiesAndLAMe\obj\Debug\Student-Manager.csproj.CoreCompileInputs.cache
 D:\source\repos\COMP1202_S21_Assg2_BestiesAndLAMe\COMP1202_S21_Assg2_BestiesAndLAMe\obj\Debug\COMP1202_S21_Assg2_BestiesAndLAMe.exe
 D:\source\repos\COMP1202_S21_Assg2_BestiesAndLAMe\COMP1202_S21_Assg2_BestiesAndLAMe\obj\Debug\COMP1202_S21_Assg2_BestiesAndLAMe.pdb
+C:\Users\vygov\Student-Manager\COMP1202_S21_Assg2_BestiesAndLAMe\bin\Debug\COMP1202_S21_Assg2_BestiesAndLAMe.exe.config
+C:\Users\vygov\Student-Manager\COMP1202_S21_Assg2_BestiesAndLAMe\bin\Debug\COMP1202_S21_Assg2_BestiesAndLAMe.exe
+C:\Users\vygov\Student-Manager\COMP1202_S21_Assg2_BestiesAndLAMe\bin\Debug\COMP1202_S21_Assg2_BestiesAndLAMe.pdb
+C:\Users\vygov\Student-Manager\COMP1202_S21_Assg2_BestiesAndLAMe\obj\Debug\Student-Manager.csproj.AssemblyReference.cache
+C:\Users\vygov\Student-Manager\COMP1202_S21_Assg2_BestiesAndLAMe\obj\Debug\Student-Manager.csproj.SuggestedBindingRedirects.cache
+C:\Users\vygov\Student-Manager\COMP1202_S21_Assg2_BestiesAndLAMe\obj\Debug\Student-Manager.csproj.CoreCompileInputs.cache
+C:\Users\vygov\Student-Manager\COMP1202_S21_Assg2_BestiesAndLAMe\obj\Debug\COMP1202_S21_Assg2_BestiesAndLAMe.exe
+C:\Users\vygov\Student-Manager\COMP1202_S21_Assg2_BestiesAndLAMe\obj\Debug\COMP1202_S21_Assg2_BestiesAndLAMe.pdb

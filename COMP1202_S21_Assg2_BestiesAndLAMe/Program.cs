@@ -132,26 +132,29 @@ namespace COMP1202_S21_Assg2_BestiesAndLAMe
             string line;
             DarkYellowColor("Student's data by ID: " + studentID + "\n");
             StreamReader read = new StreamReader("StudentData.txt");
+            bool found = false;
             while ((line = read.ReadLine()) != null)
             {
-                int count = 0;
+                
                 string[] studentData = line.Split(':');
-                if (studentID == studentData[0])
+                if (studentID == line.Split(':')[0])
                 {
                     Clear();
                     StudentData studentDisplay = new StudentData(line);
                     WriteLine(studentDisplay.ToString());
                     WriteLine("*******************************************\n");
-                    count++;
+                    found = true;
+                    break;
+                   
                 }
-                if(count == 0)
-                {
-                    NoDataFound();
-                    ExitOrContinue();
-                    DisplayMenu();
-                }
-
             }
+
+            if(!found){
+                NoDataFound();
+                ExitOrContinue();
+                DisplayMenu();
+            }
+
             read.Close();
             int lineNum = Convert.ToInt32(studentID) - 9999;
             if (lineNum <= 0)
